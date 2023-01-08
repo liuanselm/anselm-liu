@@ -1,0 +1,32 @@
+
+.name{
+    font-family: 'Roboto Mono', monospace;
+    padding: 1vh;
+    font-size: 50px;
+    text-align: center;
+}
+
+.infoWrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.info{
+    font-family: 'Roboto Mono', monospace;
+    padding: 1vw;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+
+.info:hover{
+    cursor: pointer;
+}
+
+.info a{
+    color: black;
+    text-decoration: none;
+}
+

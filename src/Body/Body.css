@@ -1,0 +1,10 @@
+.bodyWrapper{
+    background-color: #F5F5F5;
+}
+
+.title{
+    font-family: 'Roboto Mono', monospace;
+    padding: 1vh;
+    font-size: 25px;
+    text-align: center;
+}
