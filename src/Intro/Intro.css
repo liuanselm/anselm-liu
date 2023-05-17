@@ -1,0 +1,28 @@
+.intro{
+    padding-top: 150px;
+    font-family: 'Roboto Mono', monospace;
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+
+}
+
+.expName{
+    font-family: 'Roboto Mono', monospace;
+}
+
+.experience{
+    display: flex;
+    flex-direction: row;
+    gap: 1vh;
+    align-items: center;
+}
+
+.experienceWrapper{
+    padding-top: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap:3vh;
+    justify-content: center;
+}

@@ -1,20 +1,28 @@
 
 .name{
     font-family: 'Roboto Mono', monospace;
-    padding: 1vh;
-    font-size: 50px;
-    text-align: center;
+    font-size: 25px;
+}
+
+.headerWrapper{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-between;
+    margin: 3vh;
+    border-bottom: 1px solid grey;
+    padding-bottom: 1vh;
 }
 
 .infoWrapper{
     display: flex;
     flex-direction: row;
     justify-content: center;
+    flex-wrap: wrap;
+    gap:3vh;
 }
 
 .info{
     font-family: 'Roboto Mono', monospace;
-    padding: 1vw;
     justify-content: center;
     align-items: center;
     display: flex;
@@ -30,3 +38,6 @@
     text-decoration: none;
 }
 
+.copyPopUp{
+
+}
